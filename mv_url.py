@@ -1,6 +1,6 @@
 """
 The following contents is quoted from here : 
-(https://recsyslab.github.io/recsys-python/ja/chap01.html)
+https://recsyslab.github.io/recsys-python/
 """
 
 s = """
